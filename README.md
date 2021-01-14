@@ -1,4 +1,4 @@
-Live preview:http://localhost/Fruits-vegetables-shop/index.php
+Live preview: http://localhost/Fruits-vegetables-shop/index.php
 
 # Fruits-vegetables-shop
 
