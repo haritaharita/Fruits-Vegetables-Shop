@@ -1,4 +1,5 @@
-[Live preview]:http://localhost/Fruits-vegetables-shop/index.php
+Live preview:http://localhost/Fruits-vegetables-shop/index.php
+
 # Fruits-vegetables-shop
 
 It is an online static e-commerce web application for selling fruits and vegetables. This project was developed by two team members.<br>
